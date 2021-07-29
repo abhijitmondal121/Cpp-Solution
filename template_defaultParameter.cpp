@@ -37,6 +37,9 @@ int main(){
 
     myclass<>ob(50,2.3);
     ob.display();
+    cout<<endl;
+    myclass<char,int>ob1('a',20);
+    ob1.display();
 
 
     return 0;
