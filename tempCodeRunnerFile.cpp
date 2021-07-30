@@ -1,4 +1,2 @@
-    // base(base &ob){
-    //     int x =ob.a;
-    //     cout<<"base class "<<x<<endl;
-    // }
+  // cout<<"enter the size :"<<endl;
+    // cin>>size;
