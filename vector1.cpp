@@ -5,7 +5,7 @@ using namespace std;
 void display(vector<int> &v){
     for(int i=0;i<v.size();i++){
         cout<<v[i]<<" ";
-        cout<<v.at(i)<<" ";
+        // cout<<v.at(i)<<" ";+
     }
     cout<<endl;
 }
@@ -47,6 +47,7 @@ int main(){
     // if we want to insert a element in 1st of the vector
     vector<int>::iterator iter=vec1.begin();
     // vec1.insert(iter,566);
+
      display(vec1);
 
 
