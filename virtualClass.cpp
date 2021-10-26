@@ -2,6 +2,8 @@
 using namespace std;
 
 
+
+
 class student{
     protected:
     int roll;
