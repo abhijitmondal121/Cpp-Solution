@@ -7,7 +7,6 @@
 	// Note: you can't use sort function, and the operation should be in O(n) times
 
 
-
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
